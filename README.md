@@ -24,7 +24,7 @@ List and briefly describe the main files in your repository:
 
 - pandas
 
--numpy
+- numpy
 
 - scikit-learn
 
@@ -50,17 +50,25 @@ Open and run the House price (ML).ipynb notebook using Jupyter or any compatible
 
 - Data preprocessing: Handling missing values, feature engineering.
 
-- Model selection: Random Forest
+- Model selection: Random Forest Regression, Hist Gradient Boosting Regressor.
 
 - Model evaluation: Root-Mean-Squared-Error (RMSE) between the logarithm of the predicted value and the logarithm of the observed sales price.
 
 # Results
 
-Accuracy achieved on the test set.
+## Accuracy achieved on the test set.
+
+### Random Forest Regressor
 
 - Kaggle accuracy:  0.17894
 
 - Random accuracy from dataset: 0.13278
+
+### Hist Gradient Boosting Regressor
+
+- Kaggle accuracy:  0.15139
+
+- Random accuracy from dataset: 0.13552
 
 # Kaggle Competition
 
