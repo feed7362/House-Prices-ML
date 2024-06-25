@@ -66,9 +66,9 @@ Open and run the House price (ML).ipynb notebook using Jupyter or any compatible
 
 ### Hist Gradient Boosting Regressor
 
-- Kaggle accuracy:  0.15139
+- Kaggle accuracy:  0.13730
 
-- Random accuracy from dataset: 0.13552
+- Random accuracy from dataset: 0.12946
 
 # Kaggle Competition
 
